@@ -1,2 +1,0 @@
-# gurenyuu
-Gurenyuu sound package

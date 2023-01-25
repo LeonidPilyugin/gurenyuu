@@ -1,2 +1,0 @@
-#!/bin/bash
-mpv /usr/share/sounds/gurenyuu.mp3 &> /dev/null
