@@ -15,5 +15,5 @@ package() {
     install -dm755 $pkgdir/usr/share/sounds
     install -dm755 $pkgdir/usr/bin
     cp $srcdir/files/gurenyuu $pkgdir/usr/bin/
-    cp gurenyuu.mp3 $pkgdir/usr/share/sounds/
+    cp $srcdir/files/gurenyuu.mp3 $pkgdir/usr/share/sounds/
 }
